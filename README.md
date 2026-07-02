@@ -6,10 +6,12 @@ Leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
