@@ -28,6 +28,7 @@ Leetcode problem solutions
 | [0125-valid-palindrome](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +42,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [2270-number-of-ways-to-split-array](https://github.com/Akanksha-Ceris/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
