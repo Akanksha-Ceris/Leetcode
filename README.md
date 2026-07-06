@@ -6,6 +6,7 @@ Leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0056-merge-intervals) |
 | [0704-binary-search](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2270-number-of-ways-to-split-array](https://github.com/Akanksha-Ceris/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
@@ -46,4 +47,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
