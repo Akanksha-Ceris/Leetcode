@@ -31,6 +31,7 @@ Leetcode problem solutions
 | [0005-longest-palindromic-substring](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0647-palindromic-substrings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -62,4 +63,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
