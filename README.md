@@ -34,6 +34,7 @@ Leetcode problem solutions
 | [0205-isomorphic-strings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0647-palindromic-substrings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -67,4 +68,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
