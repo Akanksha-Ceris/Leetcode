@@ -32,6 +32,7 @@ Leetcode problem solutions
 | [0125-valid-palindrome](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0796-rotate-string) |
@@ -60,6 +61,7 @@ Leetcode problem solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
