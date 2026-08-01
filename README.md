@@ -50,6 +50,7 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
@@ -70,6 +71,7 @@ Leetcode problem solutions
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -93,4 +95,12 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
