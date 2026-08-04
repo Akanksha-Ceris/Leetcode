@@ -8,12 +8,14 @@ Leetcode problem solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2270-number-of-ways-to-split-array](https://github.com/Akanksha-Ceris/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
@@ -23,6 +25,7 @@ Leetcode problem solutions
 | [0088-merge-sorted-array](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
