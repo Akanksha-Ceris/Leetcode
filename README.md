@@ -28,6 +28,7 @@ Leetcode problem solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -106,4 +107,8 @@ Leetcode problem solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
