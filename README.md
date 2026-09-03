@@ -83,6 +83,7 @@ Leetcode problem solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
@@ -113,6 +114,7 @@ Leetcode problem solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
