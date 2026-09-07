@@ -86,6 +86,7 @@ Leetcode problem solutions
 | [0050-powx-n](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Leetcode problem solutions
 | [0206-reverse-linked-list](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Akanksha-Ceris/Leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Akanksha-Ceris/Leetcode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
